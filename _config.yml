@@ -23,21 +23,17 @@ description:  Учебно-развлекательный портал Лабо�
 
 # List of links in the navigation bar
 navbar-links:
-  ТВ Шоу: "aboutme"
-  Рубрики:
-    - Актуальное:
-    - Наследие:
-    - Наши сети:
-    - Клубника:
-    - Приколы:
-    - Чернуха:
-  Матчасть:
-    - Книги:
-    - Статьи:
-    - Видеокурсы:
-    - Видеосюжеты:
-    - Проекты:
-  Автор: "http://chernyshev.ru"
+  ВЕЧЕРНЫШЕВ: https://www.youtube.com/user/ckpmipt
+  Читать: 
+    - Полезное: categories
+    - Тэги: tags
+  Учи матчасть:
+    - Книги: http://www.chernyshev.ru/publications/
+    - Статьи: http://www.chernyshev.ru/publications/
+    - Видеокурсы: https://www.youtube.com/user/ckpmipt
+    - Видеосюжеты: https://www.youtube.com/playlist?list=PLjQl8DO6RxtcR1sdRECYNkLhKSXBATAJW
+    - Проекты: http://www.chernyshev.ru/history/
+  Автор: https://ru.wikipedia.org/wiki/Чекрнышев_Сергей_Борисович
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,7 +69,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: ИПИ ЛАБ
+  name: WEEKLY CHERNYSHEV
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -81,7 +77,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "info@ipe-lab.ru"
+  email: "info@techec.ru"
   facebook: groups/property1
 #  github: daattali
 #  twitter: daattali
@@ -104,11 +100,11 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.ipe-lab.ru"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
