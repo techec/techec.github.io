@@ -4,7 +4,7 @@ title: К Чадаеву
 show-avatar: false
 image: /img/chaadayev.jpg
 categories: [Песнь пенсии]
-tags: [Дружеское послание]
+tags: [Дружеское послание, Чадаев]
 subtitle: Россия вспрянет от напасти, Взойдёт звезда, и не беда
 ---
 

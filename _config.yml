@@ -25,8 +25,9 @@ description:  Учебно-развлекательный портал Лабо�
 navbar-links:
   ВЕЧЕРНЫШЕВ: https://www.youtube.com/user/ckpmipt
   Читать: 
-    - Полезное: categories
+    - Категории: categories
     - Тэги: tags
+  Наши люди:
   Учи матчасть:
     - Книги: http://www.chernyshev.ru/publications/
     - Статьи: http://www.chernyshev.ru/publications/
