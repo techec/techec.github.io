@@ -8,7 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-# Default YAML values (more information on Jekyll's site)
 defaults:
   -
     scope:
@@ -24,7 +23,6 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
-
 url: https://techec.github.io
 baseurl: ''
 description: Учебно-развлекательный портал Лаборатории ИПИ
