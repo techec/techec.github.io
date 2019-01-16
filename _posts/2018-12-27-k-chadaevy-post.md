@@ -1,10 +1,14 @@
 ---
-layout: post
 title: К Чадаеву
+date: 2018-12-27 00:00:00 -08:00
+categories:
+- Песнь пенсии
+tags:
+- Дружеское послание
+- Чадаев
+layout: post
 show-avatar: false
-image: /img/chaadayev.jpg
-categories: [Песнь пенсии]
-tags: [Дружеское послание, Чадаев]
+image: "/img/chaadayev.jpg"
 subtitle: Россия вспрянет от напасти, Взойдёт звезда, и не беда
 ---
 
